@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    
+}
+div {
+    color: #000000;
+    background-color: #a71930;
+    border-style: solid;
+    border-color: #a5acaf;
+    
+}
+p {
+    color: #a5acaf;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span {
+    color: #a5acaf;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
